@@ -4,22 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 13, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Andrew Ingram)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we are using an api to fetch weather forecasts from the web. Then we are displaying them in a certain way on a web page.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://aingram1999.github.io/WeatherChannel/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned about an API that is called APIXU.
+2. Another thing I learned was how to use APIXU to recieve a 1-day weather forecast.
+3. I further familiarized myself with JSON and jQuery.
 
